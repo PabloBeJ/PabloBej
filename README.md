@@ -1,6 +1,6 @@
 # Pablo Bejar Thomas
 
-### Junior Software Engineer passionatio about learning new technologies.
+### Junior Software Engineer and passionate about learning new technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pablobejar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablo-bejar-thomas/)
 
