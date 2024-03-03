@@ -1,52 +1,24 @@
-# John Doe
+# Pablo Bejar Thomas
 
-### Software Engineer | Open Source Enthusiast
+### Junior Software Engineer passionatio about learning new technologies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-johndoe-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/johndoe)
-[![Twitter](https://img.shields.io/twitter/follow/johndoe?style=social)](https://twitter.com/johndoe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pablobejar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pablo-bejar-thomas/)
 
 ---
 
 ## About Me
 
-I'm a passionate software engineer with a love for creating innovative solutions. I enjoy working on open-source projects and collaborating with fellow developers.
+I am a dynamic, hardworking individual with a strong initiative and a deep eagerness to learn. My goal is to advance in the world of informatics, with a special interest in software programming. I am looking forward to putting into practice what I have learned, tackling new challenges, and continually improving my skills to contribute effectively.
+
 
 ---
 
 ## Skills
 
-- 💻 Programming Languages: JavaScript, Python, Java
+- 💻 Programming Languages: JavaScript, Java, C#
 - 🛠️ Technologies: React, Node.js, Docker
-- 🌐 Web Development: HTML, CSS, Sass
-- 📱 Mobile Development: React Native, Flutter
-- 🗄️ Databases: MySQL, MongoDB
-- ⚙️ DevOps: CI/CD, Kubernetes
+- 🌐 Web Development: HTML, CSS, PHP, Laravel
+- 📱 Mobile Development: React Native,  Android Studio
+- 🗄️ Databases: MySQL, MongoDB, Photon Engine, Firebase, AWS, PostgreSQL
 
----
-
-## Projects
-
-### [Project 1: Awesome Project](https://github.com/johndoe/awesome-project)
-![Project 1](https://via.placeholder.com/500x300)
-
-Description of Project 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fringilla mauris eget metus consequat varius.
-
-### [Project 2: Cool App](https://github.com/johndoe/cool-app)
-![Project 2](https://via.placeholder.com/500x300)
-
-Description of Project 2. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-### [Project 3: Amazing Website](https://github.com/johndoe/amazing-website)
-![Project 3](https://via.placeholder.com/500x300)
-
-Description of Project 3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
----
-
-## Contact Me
-
-- 📧 Email: johndoe@email.com
-- 🌐 Website: [johndoe.com](https://www.johndoe.com)
-
-Feel free to reach out to me for any collaboration or just to say hi! 👋
 
